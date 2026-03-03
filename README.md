@@ -18,6 +18,12 @@ Repeated-measures ANOVA exploring how colour and facial expression shape perceiv
 Low-fidelity dashboard designed using UX principles and user feedback.  
 [View project →](#)
 
+### The Impact of Video Game Experience on Response Time
+A Go/No-Go task study exploring whether gaming experience influences reaction time.
+
+[View full project →](https://github.com/MinaAdjbishe/video-game-reaction-time-study)
+
+
 ## Skills
 - **Data & Analytics:** R, tidyverse, ggplot2, lme4, afex, emmeans  
 - **UX & Design:** User research, usability testing, wireframing  
