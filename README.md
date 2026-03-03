@@ -8,7 +8,7 @@ User-centred data strategist with experience in behavioural research, UX princip
 
 ### Social Media Use & Loneliness Study (R)
 Behavioural study analysing relationships between social media use and loneliness.  
-[View project →](#)
+[View project →](https://github.com/MinaAdjbishe/social-media-loneliness-study)
 
 ### Colour × Facial Expression Perception Study (R)
 Repeated-measures ANOVA exploring how colour and facial expression shape perceived happiness.  
