@@ -12,7 +12,7 @@ Behavioural study analysing relationships between social media use and lonelines
 
 ### Colour × Facial Expression Perception Study (R)
 Repeated-measures ANOVA exploring how colour and facial expression shape perceived happiness.  
-[View project →](#)
+[View project →](https://github.com/MinaAdjbishe/Colour-Expression-Perception-)
 
 ### UX-Informed Dashboard Prototype
 Low-fidelity dashboard designed using UX principles and user feedback.  
